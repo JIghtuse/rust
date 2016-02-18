@@ -1,4 +1,4 @@
-% Concurrency
+# Concurrency
 
 Concurrency and parallelism are incredibly important topics in computer
 science, and are also a hot topic in industry today. Computers are gaining more

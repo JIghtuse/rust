@@ -1,4 +1,4 @@
-% Foreign Function Interface
+# Foreign Function Interface
 
 # Introduction
 

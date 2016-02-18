@@ -1,4 +1,4 @@
-% Advanced Linking
+# Advanced Linking
 
 The common cases of linking with Rust have been covered earlier in this book,
 but supporting the range of linking possibilities made available by other

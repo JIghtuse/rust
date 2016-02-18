@@ -1,4 +1,4 @@
-% Generics
+# Generics
 
 Sometimes, when writing a function or data type, we may want it to work for
 multiple types of arguments. In Rust, we can do this with generics.

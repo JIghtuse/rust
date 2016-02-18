@@ -1,4 +1,4 @@
-% Operators and Overloading
+# Operators and Overloading
 
 Rust allows for a limited form of operator overloading. There are certain
 operators that are able to be overloaded. To support a particular operator

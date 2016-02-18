@@ -1,4 +1,4 @@
-% The Rust Programming Language
+# The Rust Programming Language
 
 Welcome! This book will teach you about the [Rust Programming Language][rust].
 Rust is a systems programming language focused on three goals: safety, speed,

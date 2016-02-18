@@ -1,4 +1,4 @@
-% Nightly Rust
+# Nightly Rust
 
 Rust provides three distribution channels for Rust: nightly, beta, and stable.
 Unstable features are only available on nightly Rust. For more details on this

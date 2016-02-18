@@ -1,4 +1,4 @@
-% Compiler Plugins
+# Compiler Plugins
 
 # Introduction
 

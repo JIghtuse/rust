@@ -1,4 +1,4 @@
-% Slice patterns
+# Slice patterns
 
 If you want to match against a slice or array, you can use `&` with the
 `slice_patterns` feature:

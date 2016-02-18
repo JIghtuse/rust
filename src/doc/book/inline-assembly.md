@@ -1,4 +1,4 @@
-% Inline Assembly
+# Inline Assembly
 
 For extremely low-level manipulations and performance reasons, one
 might wish to control the CPU directly. Rust supports using inline

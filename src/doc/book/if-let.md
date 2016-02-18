@@ -1,4 +1,4 @@
-% if let
+# if let
 
 `if let` allows you to combine `if` and `let` together to reduce the overhead
 of certain kinds of pattern matches.

@@ -1,4 +1,4 @@
-% Associated Constants
+# Associated Constants
 
 With the `associated_consts` feature, you can define constants like this:
 

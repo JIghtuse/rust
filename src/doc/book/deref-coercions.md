@@ -1,4 +1,4 @@
-% `Deref` coercions
+# `Deref` coercions
 
 The standard library provides a special trait, [`Deref`][deref]. It’s normally
 used to overload `*`, the dereference operator:

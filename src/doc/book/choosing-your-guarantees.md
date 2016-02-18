@@ -1,4 +1,4 @@
-% Choosing your Guarantees
+# Choosing your Guarantees
 
 One important feature of Rust is that it lets us control the costs and guarantees
 of a program.

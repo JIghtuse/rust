@@ -1,4 +1,4 @@
-% Error Handling
+# Error Handling
 
 Like most programming languages, Rust encourages the programmer to handle
 errors in a particular way. Generally speaking, error handling is divided into

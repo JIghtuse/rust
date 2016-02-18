@@ -1,4 +1,4 @@
-% No stdlib
+# No stdlib
 
 Rust’s standard library provides a lot of useful functionality, but assumes
 support for various features of its host system: threads, networking, heap

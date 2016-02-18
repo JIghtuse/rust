@@ -1,4 +1,4 @@
-% `type` Aliases
+# `type` Aliases
 
 The `type` keyword lets you declare an alias of another type:
 

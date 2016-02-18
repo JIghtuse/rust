@@ -1,4 +1,4 @@
-% The Stack and the Heap
+# The Stack and the Heap
 
 As a systems language, Rust operates at a low level. If you’re coming from a
 high-level language, there are some aspects of systems programming that you may

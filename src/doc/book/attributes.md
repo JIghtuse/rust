@@ -1,4 +1,4 @@
-% Attributes
+# Attributes
 
 Declarations can be annotated with ‘attributes’ in Rust. They look like this:
 

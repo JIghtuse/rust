@@ -1,4 +1,4 @@
-% Getting Started
+# Getting Started
 
 This first chapter of the book will get us going with Rust and its tooling.
 First, we’ll install Rust. Then, the classic ‘Hello World’ program. Finally,

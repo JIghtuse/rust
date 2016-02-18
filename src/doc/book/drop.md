@@ -1,4 +1,4 @@
-% Drop
+# Drop
 
 Now that we’ve discussed traits, let’s talk about a particular trait provided
 by the Rust standard library, [`Drop`][drop]. The `Drop` trait provides a way

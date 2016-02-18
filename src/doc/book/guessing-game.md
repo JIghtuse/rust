@@ -1,4 +1,4 @@
-% Guessing Game
+# Guessing Game
 
 Let’s learn some Rust! For our first project, we’ll implement a classic
 beginner programming problem: the guessing game. Here’s how it works: Our

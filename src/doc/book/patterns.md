@@ -1,4 +1,4 @@
-% Patterns
+# Patterns
 
 Patterns are quite common in Rust. We use them in [variable
 bindings][bindings], [match statements][match], and other places, too. Let’s go

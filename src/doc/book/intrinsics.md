@@ -1,4 +1,4 @@
-% Intrinsics
+# Intrinsics
 
 > **Note**: intrinsics will forever have an unstable interface, it is
 > recommended to use the stable interfaces of libcore rather than intrinsics

@@ -1,4 +1,4 @@
-% Borrow and AsRef
+# Borrow and AsRef
 
 The [`Borrow`][borrow] and [`AsRef`][asref] traits are very similar, but
 different. Here’s a quick refresher on what these two traits mean.
